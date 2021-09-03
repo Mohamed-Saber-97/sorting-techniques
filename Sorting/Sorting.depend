@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1620952857 source:/home/mohamed/Desktop/DS2/Lab 1/Sorting/main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<string.h>
+	<stdbool.h>
+	<time.h>
+
